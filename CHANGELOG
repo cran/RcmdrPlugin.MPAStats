@@ -1,0 +1,21 @@
+# RcmdrPlugin.MPAStats Changelog
+
+## 1.0 -- June 14, 2012
+
+* Released for initial CRAN submission
+* Renamed RcmdrPlugin.MPAStats (formerly RcmdrPlugin.BYUMPA)
+* Added: Menu for viewing the structure of the current dataframe (MPA Statistics -> Descriptive statistics -> View data set structure)
+* Fixed: All documentation is correct. Package passes all `R CMD check` tests, with the exception of trivial "no visible binding for global variable" notes that occur in all Rcmdr plugins (and in the core Rcmdr)
+
+
+## 0.5 -- June 7, 2012
+
+* Added: The dialog for ordinal logistic regression now uses the `ordinal` library instead of the `MASS` library, since `ordinal` reports p-values in the summary table for the model.
+* Added: The "Factor change coefficients" function in the Models menu calculates `e^b` for coefficients in logistic models.
+* Fixed: Models created with `ordinal`'s `clm()` function now register in R Commander's model list, allowing users to use functions in the Models menu on objects of class `sclm`
+* Removed: Ordinal logistic regression menus based on the `MASS` library.
+
+
+## 0.1-0.2.1 -- May 2012
+
+* Various alpha releases
