@@ -1,0 +1,15 @@
+456c0511f0017d976d67f53eb9faca78 *CHANGELOG
+b105e22e2b61bf3aab2308e08cdc8fc1 *DESCRIPTION
+f40d768535e69ea00a1f148c48afe06d *NAMESPACE
+120de6a80e43062018dd8393805ec15a *R/DataframeSummary.R
+da826293a81ca4ca7b5108627a208976 *R/RcmdrPlugin.MPAStats.R
+eaebfbbbc0789fcbf5b14119b9476aa1 *R/bivariate-analysis.R
+2a0a595c8333fe228ec6113d176bb83c *R/confidence-intervals.R
+7ee1816e5d12f6e0655e55ca3ff1a5aa *R/misc.R
+4a9097c766c5b88ba6c377dbc1cd0a41 *README.md
+456c0511f0017d976d67f53eb9faca78 *inst/CHANGELOG
+81479f4b774d95f37ec980bcb2f6ed6f *inst/etc/menus.txt
+40c3a176470d7d34be6e769cfdbfc131 *man/DataframeSummary.Rd
+0ac6000e80aa0dc49e655471f439d2bd *man/RcmdrPlugin.MPAStats-internal.Rd
+49309ba530849ddac7b3159bdc153462 *man/RcmdrPlugin.MPAStats-package.Rd
+c653157f258ce015e09086dd6a80632f *man/printConfint.Rd
