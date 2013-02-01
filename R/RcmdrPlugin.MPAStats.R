@@ -13,7 +13,7 @@
   }
 }
 
-# Run findGlobals.R to generate this code
+# Run John Fox's findGlobals.R to generate this code
 if (getRversion() >= '2.15.1') globalVariables(c('top',
 'singleProportionTest', 'buttonsFrame',
 'proportionalOddsModel', 'subsetVariable', 'lhsVariable',
