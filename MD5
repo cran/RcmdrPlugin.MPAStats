@@ -1,7 +1,7 @@
-c110b2ebd15a65c1ee7cfddc040d7240 *CHANGELOG
-26082bdedeef56af8940d83e16b7cecc *DESCRIPTION
+01c51a08b520cd760ed72a6feecc18de *CHANGELOG
+529dd367d7683732183e44a5338b1aa0 *DESCRIPTION
 5011411fadc7f7330721ce64531a09db *NAMESPACE
-bb129ccf1fccd62a6b4c5a8c3dd144b9 *R/DataframeSummary.R
+3eac10aaee44f96d1d004c3fafa4d5c8 *R/DataframeSummary.R
 09839fa60651d80608db16e9b0158947 *R/RcmdrPlugin.MPAStats.R
 b7d42585ba05104b71f6494ddc0b8a8f *R/anova.R
 d357ac45a585c02c3febb0f909241fbf *R/bivariate-analysis.R
@@ -17,7 +17,7 @@ e962fcccadd5c5c87ed46cce508111a9 *R/multiple-regression.R
 2b141cd266c73cf641a38db10b038ae0 *R/t-test.R
 35a06c2bc6689a44cc1157b2c930c207 *R/wilcoxon-mann-whitney.R
 b11362c23d50a2f2fe22a52caa4b62e9 *R/wilcoxon-rank.R
-c110b2ebd15a65c1ee7cfddc040d7240 *inst/CHANGELOG
+01c51a08b520cd760ed72a6feecc18de *inst/CHANGELOG
 8314b68e5e46ee5c30e2be879d8617aa *inst/etc/menus.txt
 f40b8a74df01a7c78ed6e639f51754d9 *man/DataframeSummary.Rd
 446c875827a0ed43e2c13a653a0b2975 *man/RcmdrPlugin.MPAStats-internal.Rd
