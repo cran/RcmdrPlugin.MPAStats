@@ -1,5 +1,5 @@
 01c51a08b520cd760ed72a6feecc18de *CHANGELOG
-529dd367d7683732183e44a5338b1aa0 *DESCRIPTION
+7c2e03f9302ef5d36dc4c702b12247a7 *DESCRIPTION
 5011411fadc7f7330721ce64531a09db *NAMESPACE
 3eac10aaee44f96d1d004c3fafa4d5c8 *R/DataframeSummary.R
 09839fa60651d80608db16e9b0158947 *R/RcmdrPlugin.MPAStats.R
@@ -21,6 +21,6 @@ b11362c23d50a2f2fe22a52caa4b62e9 *R/wilcoxon-rank.R
 8314b68e5e46ee5c30e2be879d8617aa *inst/etc/menus.txt
 f40b8a74df01a7c78ed6e639f51754d9 *man/DataframeSummary.Rd
 446c875827a0ed43e2c13a653a0b2975 *man/RcmdrPlugin.MPAStats-internal.Rd
-b40e1bee12b266a0355b5599b87fb3e5 *man/RcmdrPlugin.MPAStats-package.Rd
+feab997de4d73905f707a50881d6cf58 *man/RcmdrPlugin.MPAStats-package.Rd
 8595e8a9e27110ba28c2ffbdcd0cf328 *man/interpretations.Rd
 c653157f258ce015e09086dd6a80632f *man/printConfint.Rd
